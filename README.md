@@ -42,8 +42,3 @@ You can modify the range of numbers by adjusting the `min_number` and `max_numbe
 game = GuessingGame(min_number=1, max_number=50)
 ```
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements.
-
-## License
-This project is licensed under the MIT License.
